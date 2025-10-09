@@ -266,3 +266,86 @@ Command block:
 touch file1.txt
 date >> file1.txt
 ```
+
+Software:
+Obsidian
+BBEdit
+GitDesktop
+
+```bash
+#!/bin/bash
+
+# This script will create a new folder and populate it
+
+mkdir library_project
+cd library_project
+touch library.txt
+date >> library.txt
+echo 'All finished!'
+```
+
+xcci2032e174:~ up2509065$ cd Desktop/
+
+xcci2032e174:Desktop up2509065$ ls
+
+LocalHomeFolders.jpg Obsidian.app test testscript.sh
+
+xcci2032e174:Desktop up2509065$ ls -l
+
+total 1136
+
+-rw-r--r--@  1 up2509065  UNI\Domain Users  574398  3 Oct 10:05 LocalHomeFolders.jpg
+
+drwxr-xr-x@  3 up2509065  UNI\Domain Users      96 29 Sep 18:21 Obsidian.app
+
+drwxr-xr-x  12 up2509065  UNI\Domain Users     384  9 Oct 16:25 test
+
+-rwxr--r--@  1 up2509065  UNI\Domain Users     168  9 Oct 16:47 testscript.sh
+
+xcci2032e174:Desktop up2509065$ chmod +x testscript.sh
+
+xcci2032e174:Desktop up2509065$ ls -l
+
+total 1136
+
+-rw-r--r--@  1 up2509065  UNI\Domain Users  574398  3 Oct 10:05 LocalHomeFolders.jpg
+
+drwxr-xr-x@  3 up2509065  UNI\Domain Users      96 29 Sep 18:21 Obsidian.app
+
+drwxr-xr-x  12 up2509065  UNI\Domain Users     384  9 Oct 16:25 test
+
+-rwxr-xr-x@  1 up2509065  UNI\Domain Users     168  9 Oct 16:47 testscript.sh
+
+xcci2032e174:Desktop up2509065$ cat testscript.sh 
+
+#!/bin/bash
+
+  
+
+# This script will create a new folder and populate it
+
+  
+
+mkdir library_project
+
+cd library_project
+
+touch library.txt
+
+date >> library.txt
+
+echo 'All finished!'xcci2032e174:Desktop up2509065$ ./testscript.sh 
+
+All finished!
+
+xcci2032e174:Desktop up2509065$ cd library_project/
+
+xcci2032e174:library_project up2509065$ ls
+
+library.txt
+
+xcci2032e174:library_project up2509065$ cat library.txt 
+
+Thu  9 Oct 2025 16:53:07 BST
+
+xcci2032e174:library_project up2509065$

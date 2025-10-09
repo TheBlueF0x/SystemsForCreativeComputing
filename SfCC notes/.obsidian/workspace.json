@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "1babe244f7d7fb7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5faff128cf3be61d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de0c7b57ca9151ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "a6fb8afca22c1692",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SfCC week 2 notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SfCC week 2 notes"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "0060c68d7c113a9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6e7c02dd435e334",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf99576d0ffdde8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "71eb52818762cec5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4baae472bca87c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a33c0f9d315d3d4f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "32097a470c304ec7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c956161c79c11938",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bb7362326781657",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33263e925fa54f02",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SfCC week 2 notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for SfCC week 2 notes"
+            }
+          },
+          {
+            "id": "bec76888d6acc069",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SfCC week 2 notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from SfCC week 2 notes"
+            }
+          },
+          {
+            "id": "41b97c9ea64e0e59",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b22faef3f0f688de",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SfCC week 2 notes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of SfCC week 2 notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a6fb8afca22c1692",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "SfCC week 2 notes.md"
+  ]
+}

@@ -322,7 +322,7 @@ xcci2032e174:Desktop up2509065$ cat testscript.sh 
 
   
 
-# This script will create a new folder and populate it
+//This script will create a new folder and populate it
 
   
 

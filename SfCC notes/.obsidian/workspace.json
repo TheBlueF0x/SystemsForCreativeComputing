@@ -51,22 +51,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "0060c68d7c113a9e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c6e7c02dd435e334",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"

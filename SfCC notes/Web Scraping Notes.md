@@ -78,3 +78,43 @@ plt.ylabel('Fossil CO2 Emissions (tons)', fontsize=12)
 plt.grid(True)  
 plt.show()
 ```
+
+```
+import requests
+# URL of the target website
+url = 'https://www.wwf.org.uk/learn/wildlife/endangered-animals'
+# Send a GET request to the website
+response = requests.get(url)
+# Check if the request was successful
+if response.status_code == 200:
+    print('Successfully fetched the webpage!')
+else:
+    print('Failed to retrieve the page')
+```
+
+```
+from bs4 import BeautifulSoup
+# Parse the HTML content
+soup = BeautifulSoup(response.text, 'html.parser')
+# Find the table containing the CO2 emissions data
+animals = soup.find("section id")
+
+# Extract the table headers
+# Extract the rows of data
+rows = [animals]
+for row in table.find_all('section id')[1:]: # Skip the header row
+    cells = row.find_all('section id')
+    row_data = [cell.text.strip() for cell in cells]
+    rows.append(row_data)
+# Print the headers and first row to check the data
+print(rows[0])
+
+import csv
+# Define the output CSV file
+csv_file = 'animal_info.csv'
+# Write the data to the CSV file
+with open(csv_file, mode='w', newline='', encoding='utf-8') as file:
+    writer = csv.writer(file)
+    writer.writerow(rows) # Write headers
+print(f"Data has been saved to {csv_file}")
+```

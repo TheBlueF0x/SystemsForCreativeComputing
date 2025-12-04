@@ -90,9 +90,21 @@
               "icon": "lucide-file",
               "title": "SuperCollider Code 1"
             }
+          },
+          {
+            "id": "a70e590c9cd7f662",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -240,7 +252,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "d12e926079d076ce",
+  "active": "a70e590c9cd7f662",
   "lastOpenFiles": [
     "wsl notes.md",
     "SuperCollider Code 1.md",

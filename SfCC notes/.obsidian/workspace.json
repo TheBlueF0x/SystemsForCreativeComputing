@@ -92,7 +92,11 @@
             }
           },
           {
+<<<<<<< HEAD
+            "id": "a70e590c9cd7f662",
+=======
             "id": "974bfd36882682ab",
+>>>>>>> 280e55031130827568a9a91463802c1933994a15
             "type": "leaf",
             "state": {
               "type": "release-notes",
@@ -102,6 +106,11 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.10.3"
             }
+<<<<<<< HEAD
+          }
+        ],
+        "currentTab": 6
+=======
           },
           {
             "id": "1a8d65b0d564c339",
@@ -159,6 +168,7 @@
           }
         ],
         "currentTab": 10
+>>>>>>> 280e55031130827568a9a91463802c1933994a15
       }
     ],
     "direction": "vertical"
@@ -306,7 +316,11 @@
       "bases:Create new base": false
     }
   },
+<<<<<<< HEAD
+  "active": "a70e590c9cd7f662",
+=======
   "active": "706ae3f0d77e6943",
+>>>>>>> 280e55031130827568a9a91463802c1933994a15
   "lastOpenFiles": [
     "SfCC week 3 notes.md",
     "SfCC week 4 notes.md",

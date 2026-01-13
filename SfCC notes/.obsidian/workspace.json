@@ -1,188 +1,37 @@
 {
   "main": {
-    "id": "1babe244f7d7fb7b",
+    "id": "89ad80d83af9de39",
     "type": "split",
     "children": [
       {
-        "id": "5faff128cf3be61d",
+        "id": "5d076aee5b6422a2",
         "type": "tabs",
         "children": [
           {
-            "id": "de0c7b57ca9151ee",
+            "id": "8d9b284170c8ca90",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "a6fb8afca22c1692",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SfCC week 2 notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SfCC week 2 notes"
-            }
-          },
-          {
-            "id": "bf46a6eaef856a96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SfCC week 3 notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SfCC week 3 notes"
-            }
-          },
-          {
-            "id": "4d1b920deed975f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SfCC week 4 notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SfCC week 4 notes"
-            }
-          },
-          {
-            "id": "420008c0405a0485",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wsl notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "wsl notes"
-            }
-          },
-          {
-            "id": "d12e926079d076ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SuperCollider Code 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SuperCollider Code 1"
-            }
-          },
-          {
-<<<<<<< HEAD
-            "id": "a70e590c9cd7f662",
-=======
-            "id": "974bfd36882682ab",
->>>>>>> 280e55031130827568a9a91463802c1933994a15
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
-            }
-<<<<<<< HEAD
-          }
-        ],
-        "currentTab": 6
-=======
-          },
-          {
-            "id": "1a8d65b0d564c339",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Supercollider Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Supercollider Notes"
-            }
-          },
-          {
-            "id": "9c4a093aebd29cd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PD Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PD Notes"
-            }
-          },
-          {
-            "id": "9c1172bb1c6c8066",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
-            }
-          },
-          {
-            "id": "706ae3f0d77e6943",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SfCC week 4 notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SfCC week 4 notes"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 10
->>>>>>> 280e55031130827568a9a91463802c1933994a15
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "bf99576d0ffdde8e",
+    "id": "8bb7ebbb97d770eb",
     "type": "split",
     "children": [
       {
-        "id": "71eb52818762cec5",
+        "id": "c5bfa6932276bc44",
         "type": "tabs",
         "children": [
           {
-            "id": "d4baae472bca87c8",
+            "id": "2c62d3c77d218173",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -195,7 +44,7 @@
             }
           },
           {
-            "id": "a33c0f9d315d3d4f",
+            "id": "fcdb1abb236157cd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -212,7 +61,7 @@
             }
           },
           {
-            "id": "32097a470c304ec7",
+            "id": "0bdc3afb95106ef1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -228,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "c956161c79c11938",
+    "id": "093293cd764d6b17",
     "type": "split",
     "children": [
       {
-        "id": "2bb7362326781657",
+        "id": "529138c41f94c166",
         "type": "tabs",
         "children": [
           {
-            "id": "33263e925fa54f02",
+            "id": "b4a81883ddf95980",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SfCC week 2 notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SfCC week 2 notes"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "bec76888d6acc069",
+            "id": "232d043b79c0fd7f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SfCC week 2 notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SfCC week 2 notes"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "41b97c9ea64e0e59",
+            "id": "9921fab9f7461e01",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -284,18 +131,17 @@
             }
           },
           {
-            "id": "b22faef3f0f688de",
+            "id": "800dbea2fc3c575d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "SfCC week 2 notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SfCC week 2 notes"
+              "title": "Outline"
             }
           }
         ]
@@ -316,25 +162,20 @@
       "bases:Create new base": false
     }
   },
-<<<<<<< HEAD
-  "active": "a70e590c9cd7f662",
-=======
-  "active": "706ae3f0d77e6943",
->>>>>>> 280e55031130827568a9a91463802c1933994a15
+  "active": "8d9b284170c8ca90",
   "lastOpenFiles": [
+    "Supercollider Notes.md",
     "SfCC week 3 notes.md",
     "SfCC week 4 notes.md",
-    "SfCC week 2 notes.md",
-    "PD Notes.md",
-    "2025-10-23.md",
     "SuperCollider Code 1.md",
     "Web Scraping Notes.md",
-    "Supercollider Notes.md",
-    "wsl notes.md",
     "Week 2 PowerPoint.md",
-    "2025-W43.md",
-    "Untitled.canvas",
-    "Untitled.base",
-    "Welcome.md"
+    "Welcome.md",
+    "wsl notes.md",
+    "2025-10-23.md",
+    "Fedora Linux Experience Documentation.md",
+    "PD Notes.md",
+    "FLOSS and Ethical Computing.md",
+    "SfCC week 2 notes.md"
   ]
 }

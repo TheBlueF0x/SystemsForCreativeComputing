@@ -1,0 +1,1 @@
+For this mini project I chose to make a small, randomised music track which can have its volume controlled by PD. The music track and volume control elements are separate and some of this code is grown upon from what we did in class. I have found the sound elements to be quite interesting so this was mostly an excuse to play about that side of things. 

@@ -86,3 +86,8 @@ systemctl poweroff
 
 ## Conclusion
 I found Linux to be a fantastic OS, and due to previously daily running it before, I was familiar with the terminal and was able to find my way around Fedora just as I would have any other distro. I have switched back to Windows for now as unfortunately for the game development and 3D designing topics we are required to use proprietary software, but when that is not necessary I personally prefer Linux, and will likely daily run Arch next as I have heard it is a challenge but can be worth it if you have specific needs for optimising your workflow. Fedora had an excellent package manager that I had only one issue with, but ended up finding a workaround anyway. I found most software works as expected, and for running servers it is still fantastic, as with every distro I have tried. I typically prefer to use free and open source software due to its cutomisability and it more often being more designed for a user instead of for making money, so for me Linux is always a good experience. 
+
+For more:
+- [[FLOSS and Ethical Computing]]
+- [[Terminal Work]]
+- 

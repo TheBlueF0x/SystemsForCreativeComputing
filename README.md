@@ -1,13 +1,3 @@
 # SystemsForCreativeComputing
- 
-## this is a second level heading
 
-Here is a line of text
-
-- Here is a list
-- Yes it is
-
-Or an ordered list...
-
-1. This is the first one
-2. This is the second
+This is a collection of my work throughout my first year in Creative Computing, specifically in the Systems for Creative Computing Module.
